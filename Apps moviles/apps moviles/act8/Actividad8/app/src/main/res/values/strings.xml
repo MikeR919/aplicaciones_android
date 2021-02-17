@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Actividad8</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Apellido">Apellido</string>
+    <string name="Celular">Celular</string>
+    <string name="LLamar">LLamar</string>
+
+</resources>

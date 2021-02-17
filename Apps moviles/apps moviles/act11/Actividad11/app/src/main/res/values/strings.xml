@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Actividad11</string>
+    <string name="numero">Numero</string>
+    <string name="nombre">Nombre</string>
+    <string name="direccion">Direccion</string>
+    <string name="telefono">Telefono</string>
+    <string name="correo">Correo</string>
+    <string name="insert">Crear</string>
+    <string name="select2">buscar2</string>
+    <string name="select">Buscar</string>
+    <string name="delete">Borrar</string>
+</resources>

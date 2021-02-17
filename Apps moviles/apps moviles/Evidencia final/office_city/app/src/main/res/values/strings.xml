@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">office_city</string>
+    <string name="Gestionar">Gestionar inventario</string>
+    <string name="veri">Ver inventario</string>
+    <string name="codigo">Código Producto</string>
+    <string name="nombre">Descripción</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="ver">ver</string>
+    <string name="insertar">Insertar</string>
+    <string name="modificar">Modificar</string>
+    <string name="borrar">Borrar</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Office City</string>
+    <string name="registrar">Registrar</string>
+    <string name="vender">Vender</string>
+    <string name="claveProducto">Clave producto</string>
+    <string name="Nombreproducto">Nombre del Producto</string>
+    <string name="QR">Escanear Producto</string>
+    <string name="guardar">Guardar producto</string>
+    <string name="precio">Precio</string>
+    <string name="Agregar">Agregar Producto</string>
+    <string name="pagar">Pagar</string>
+    <string name="ventas">Ventas del día</string>
+</resources>

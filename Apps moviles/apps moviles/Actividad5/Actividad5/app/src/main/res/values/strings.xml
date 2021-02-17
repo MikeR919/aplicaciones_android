@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Actividad5</string>
+    <string name="titulo">Cotizador de March</string>
+    <string name="Aleron">Alerón</string>
+    <string name="rin">Rin aluminio</string>
+    <string name="controles">Controles al volante</string>
+    <string name="antifaz">antifaz</string>
+    <string name="total">Precio total:</string>
+    <string name="res">193000</string>
+    <string name="calcular">Calcular</string>
+</resources>

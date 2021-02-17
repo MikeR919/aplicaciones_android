@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#0045af</color>
+    <color name="dos">#AAFFAA</color>
+    <color name="tres">#FFAAFA</color>
+    <color name="cuatro">#009900</color>
+    <color name="cinco">#990099</color>
+    <color name="seis">#aff009</color>
+    <color name="siete">#aaff99</color>
+    <color name="ocho">#afafaf</color>
+
+
+</resources>
